@@ -1,0 +1,4 @@
+{
+    "cmake.sourceDirectory": "${workspaceFolder}/mc_delivery/linux",
+    "git.ignoreLimitWarning": true
+}
